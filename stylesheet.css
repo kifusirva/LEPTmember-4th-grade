@@ -17,7 +17,7 @@ li {
   float: left;
   width: 13%;
   height:13%;
-
+  cursor:pointer;
 }
 
 .header-list {
